@@ -1,6 +1,6 @@
 public class main {
     public static void main(String[] args) {
-        // Hello
+        System.out.println("A");
         TasksManager manager = TasksManager.getInstance();
     }
 }
